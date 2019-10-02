@@ -1,0 +1,11 @@
+/Users/kernel_panic/Projects/RestWebApiClient/bin/Debug/netcoreapp3.0/RestWebApiClient
+/Users/kernel_panic/Projects/RestWebApiClient/bin/Debug/netcoreapp3.0/RestWebApiClient.deps.json
+/Users/kernel_panic/Projects/RestWebApiClient/bin/Debug/netcoreapp3.0/RestWebApiClient.runtimeconfig.json
+/Users/kernel_panic/Projects/RestWebApiClient/bin/Debug/netcoreapp3.0/RestWebApiClient.runtimeconfig.dev.json
+/Users/kernel_panic/Projects/RestWebApiClient/bin/Debug/netcoreapp3.0/RestWebApiClient.dll
+/Users/kernel_panic/Projects/RestWebApiClient/bin/Debug/netcoreapp3.0/RestWebApiClient.pdb
+/Users/kernel_panic/Projects/RestWebApiClient/obj/Debug/netcoreapp3.0/RestWebApiClient.csprojAssemblyReference.cache
+/Users/kernel_panic/Projects/RestWebApiClient/obj/Debug/netcoreapp3.0/RestWebApiClient.AssemblyInfoInputs.cache
+/Users/kernel_panic/Projects/RestWebApiClient/obj/Debug/netcoreapp3.0/RestWebApiClient.AssemblyInfo.cs
+/Users/kernel_panic/Projects/RestWebApiClient/obj/Debug/netcoreapp3.0/RestWebApiClient.dll
+/Users/kernel_panic/Projects/RestWebApiClient/obj/Debug/netcoreapp3.0/RestWebApiClient.pdb
